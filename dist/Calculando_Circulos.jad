@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, ,calculando_circulos.Calculator
+MIDlet-Jar-Size: 2975
+MIDlet-Jar-URL: Calculando_Circulos.jar
+MIDlet-Name: Calculando Circulos
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
